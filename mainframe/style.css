@@ -86,7 +86,26 @@
                     padding-left: 150px;
 
             }
-            
+
+
+            .card1{
+
+                float:left;
+                /* margin-left: 750px; */
+                /* text-align: center; */
+                /* margin-top: 125px;; */
+                
+                
+                
+
+
+        }
+            #cardHeader{
+
+
+                            color: azure;
+
+            }
             
             
 
