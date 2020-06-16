@@ -1,0 +1,53 @@
+
+
+
+        header {
+
+                        color: aliceblue;
+                        font-size: 50px;
+                        padding-top: 150px;
+
+
+                        
+
+                            text-align: center;
+                            
+                            
+                            }
+
+
+                    #mainGen {
+
+                                color: azure;
+
+                    }
+
+
+                    body {
+                                background-image: url('./assets/haloBackGround.jpeg');
+
+                    }
+
+                    #mainTemp {
+                                    color: azure;
+
+                    }
+    
+                    /* .top{
+                            background-color: slategray;
+                    }
+ */
+
+        /* h1{
+                text-align: center;
+                background-color: yellow;
+        }
+
+
+
+        p {
+                font-size: larger;
+                text-align: center;
+                background-color: yellow;
+        }
+ */
