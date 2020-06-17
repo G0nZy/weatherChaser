@@ -14,8 +14,32 @@
 
 
 
+            <div class="card1" style="width: 18rem;">
+                <img src="images/goku.gif" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 id='cardHeader'class="card-title">Main Links</h5>
+                  <p id='cardHeader'class="card-text">Sample Text</p>
+                </div>
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item">Twitter ~ g0nzy@protonmail.ch</li>
+                  <li class="list-group-item">Github ~ g0nzy</li>
+                  <li class="list-group-item">Linked In ~ Frank Cabrera III</li>
+                  <li class="list-group-item">Stack Overflow ~ g0nzy</li>
+                </ul>
+               <!-- <div class="card-body">
+                  <a href="#" class="card-link">Card link</a>
+                  <a href="#" class="card-link">Another link</a>
+                </div> -->
+              </div>
+        
 
-            <div id='mainHub' class="container-fluid">
+
+
+        <!--      original weather api pull request, first development                                                                                                 -->
+
+
+
+            <!-- <div id='mainHub' class="container-fluid">
                 <div class="row">
                   <aside class="col-lg-3 bg-light">
                     <h5 class="mt-1">Search for a City:</h5>
@@ -32,7 +56,7 @@
                     <div id="forecast" class="mt-3"></div>
                   </div>
                 </div>
-              </div>
+              </div> -->
             
             
 
@@ -40,7 +64,7 @@
             present location. Very neat, up to date weather at your 
                 bootup. Neat & smart. -->
 
-<section class="location" id="mainTemp">
+<!-- <section class="location" id="mainTemp">
         
                 <div class="city">
                             Bellevue, US
@@ -66,16 +90,37 @@
             <div class="weather"> Sunny</div>
             <div class="hi-low">13°c / 16°c</div>
         
-    </div>
+    </div> -->
 
     <!-- ////////////////////////////////////////////////////////////////////// -->
 
 
+    <div id='topTemp' class="container">
+        <div class="app-title">
+            <p>Weather</p>
+        </div>
+        <div class="notification"> </div>
+        <div class="weather-container">
+            <div class="weather-icon">
+                <img src="icons/unknown.png" alt="">
+            </div>
+            <div class="temperature-value">
+                <p>- °<span>C</span></p>
+            </div>
+            <div class="temperature-description">
+                <p> - </p>
+            </div>
+            <div class="location">
+                <p>-</p>
+            </div>
+        </div>
+    </div>
+
+<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 
 
-
-    <div class="card1" style="width: 18rem;">
+    <!-- <div class="card1" style="width: 18rem;">
         <img src="images/goku.gif" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 id='cardHeader'class="card-title">Main Links</h5>
@@ -91,7 +136,65 @@
           <a href="#" class="card-link">Card link</a>
           <a href="#" class="card-link">Another link</a>
         </div> -->
-      </div>
+      </div> -->
+
+
+
+
+
+
+
+
+      
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 title">
+                </div>
+                <div class="col-md-12 quoteArea">
+                    <p id="randomQuote"></p>
+                </div>
+    
+                <div class="col-md-12 buttons text-center">
+                    
+    
+                    <a href="#" class="btn btn-info" id="newQuote" role="button">
+                        <i class="fa fa-quote-left"></i> &nbsp;New Quote</a>
+                </div>
+    
+                
+            </div>
+        </div>
+
+
+
+
+
+
+        <!-- <div class="container">
+            <div class="app-title">
+                <p>Weather</p>
+            </div>
+            <div class="notification"> </div>
+            <div class="weather-container">
+                <div class="weather-icon">
+                    <img src="icons/unknown.png" alt="">
+                </div>
+                <div class="temperature-value">
+                    <p>- °<span>C</span></p>
+                </div>
+                <div class="temperature-description">
+                    <p> - </p>
+                </div>
+                <div class="location">
+                    <p>-</p>
+                </div>
+            </div>
+        </div>
+ -->
+
+
+
+        
 
 
 
@@ -103,7 +206,7 @@
 
 
 
-            <div class="container" id="mainGen">
+            <!-- <div class="container" id="mainGen">
                 <div class="row">
                   <div class="col-sm">
                     Lorem Ipsum ist ein einfacher Demo-Text für die Print- und Schriftindustrie. Lorem Ipsum ist in der Industrie bereits der Standard Demo-Text seit 1500, 
@@ -138,7 +241,7 @@
                   <div class="col">Lorem Ipsum ist ein einfacher Demo-Text für die Print- und Schriftindustrie. Lorem Ipsum ist in der Industrie bereits der Standard Demo-Text seit 1500, 
                     als ein unbekannter Schriftsteller eine Hand voll Wörter nahm und diese durcheinander warf um ein Musterbuch zu erstellen. </div>
                   </div>
-              </div>
+              </div> -->
 
 
 
@@ -157,7 +260,8 @@
 
             
               <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-              <script src="main.js"></script>
+              <script src="app.js"></script>
+              <script src="quote.js"></script>
             
 
 </body>
