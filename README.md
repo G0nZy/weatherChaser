@@ -37,7 +37,8 @@ would act as my homepage. I would set it as my main page on bootup & from there 
 
 
 ## Customization
-           I intend for all of these features to be 100% fully customizable. Upon bootup from a new IP address, the site will ask you to select a preference for Google Search or DuckDuckGo (In this example I have opted for DuckDuckGo), Also for things like what quick links you would like to setup for your dashboard. Among other things like which stocks or crypto coins you would like to follow & what news preferences you have like business, finance or politics.
+    
+   I intend for all of these features to be 100% fully customizable. Upon bootup from a new IP address, the site will ask you to select a preference for Google Search or DuckDuckGo (In this example I have opted for DuckDuckGo), Also for things like what quick links you would like to setup for your dashboard. Among other things like which stocks or crypto coins you would like to follow & what news preferences you have like business, finance or politics.
 
 
 ## This is still a work in progress & many more quality of life features will be coming soon ! stay tuned !
