@@ -7,7 +7,7 @@
 
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 
 ![alt text](https://github.com/G0nZy/weatherChaser/blob/master/mainframe/Screenshots/almost-final.png?raw=true)
 
