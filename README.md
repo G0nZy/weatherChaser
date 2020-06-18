@@ -20,8 +20,9 @@ would act as my homepage. I would set it as my main page on bootup & from there 
 ![alt text](https://github.com/G0nZy/weatherChaser/blob/master/mainframe/Screenshots/getting%20there.png?raw=true)
 
 
+## The Colors Indicate where I would like to place each new feature
 
-## So first in red, I plan on adding an in real time stock ticker. This has proven more difficult than first originally imagined as Im not sure if public stock tickers are an API anymore since Yahoo Finance stopped support for theirs some years ago. Still, it would be a nice feature to add, aswell as for crypto coins aswell.
+So first in red, I plan on adding an in real time stock ticker. This has proven more difficult than first originally imagined as Im not sure if public stock tickers are an API anymore since Yahoo Finance stopped support for theirs some years ago. Still, it would be a nice feature to add, aswell as for crypto coins aswell.
 
 Next up in Green, I planned on having a sticky notes web app that would serve as a way to list small notes either in bullet point form or otherwise. So you can add or subtract to these notes as you wish. I also intended for you to be able to place them anywhere on the screen ! that would be cool. a way so that you stay on track of what needs to get done. 
 
@@ -31,7 +32,7 @@ In purple, will be a list of quick access links, upon bootup for the first time 
 
 in yellow, below the navigation bar but above the randomized quote of the day i would love to add a news feature. So it would display top headlines from around the world, you can select a topic to focus on, such as tech, business or crypto. 
 
-And finally in blue, in addition to just showng the current weather for where you are at, i would like to add a 5 day forecast aswell, so that if you are setting up or planning meetings with others, you can get a quick peek into the future & what to expect on those days. 
+And finally in blue, in addition to just showing the current weather for where you are at, i would like to add a 5 day forecast aswell, so that if you are setting up or planning meetings with others, you can get a quick peek into the future & what to expect on those days. 
 
 
 ## This is still a work in progress & many more quality of life features will be coming soon ! stay tuned !
