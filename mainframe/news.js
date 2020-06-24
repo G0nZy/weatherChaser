@@ -33,8 +33,7 @@ newsapi.v2.topHeadlines({
     }
   */
 });
-// To query /v2/everything
-// You must include at least one q, source, or domain
+
 newsapi.v2.everything({
   q: 'bitcoin',
   sources: 'bbc-news,the-verge',
@@ -48,13 +47,11 @@ newsapi.v2.everything({
   console.log(response);
   /*
     {
-      status: "ok",
-      articles: [...]
+   
     }
   */
 });
-// To query sources
-// All options are optional
+
 newsapi.v2.sources({
   category: 'technology',
   language: 'en',
