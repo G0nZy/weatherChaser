@@ -16,8 +16,7 @@
 
 const NewsAPI = require('newsapi');
 const newsapi = new NewsAPI('7f59dcc3c46e407096062acd4a0f046d');
-// To query /v2/top-headlines
-// All options passed to topHeadlines are optional, but you need to include at least one of them
+
 newsapi.v2.topHeadlines({
   sources: 'bbc-news,the-verge',
   q: 'bitcoin',
@@ -28,8 +27,7 @@ newsapi.v2.topHeadlines({
   console.log(response);
   /*
     {
-      status: "ok",
-      articles: [...]
+      
     }
   */
 });
