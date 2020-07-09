@@ -8,9 +8,7 @@
 // 'apiKey=7f59dcc3c46e407096062acd4a0f046d';
 // var req = new Request(url);
 // fetch(req)
-// .then(function(response) {
-// console.log(response.json());
-// })
+
 
 
 
